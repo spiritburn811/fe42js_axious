@@ -130,5 +130,9 @@ function updateUser(id) {
 }
 
 function themNguoiDung() {
+<<<<<<< HEAD
   console.log("subtract");
+=======
+  console.log("add");
+>>>>>>> master
 }
