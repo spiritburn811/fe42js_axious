@@ -128,3 +128,7 @@ function updateUser(id) {
       console.log(err);
     });
 }
+
+function themNguoiDung() {
+  console.log("subtract");
+}
